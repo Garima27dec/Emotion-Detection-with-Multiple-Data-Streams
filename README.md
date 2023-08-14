@@ -5,3 +5,6 @@ The data set used for training images is the Kaggle FER2013 emotion recognition 
 
 https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data
 
+
+Dataset used for SER: RAVDESS
+
