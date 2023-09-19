@@ -21,7 +21,14 @@ In this Git Repository a novel multimodal emotion recognition model has been imp
 
 
 1. [Data Extraction - MELD Dataset (using Hugging Face)](Data_extraction_MELD_Dataset.ipynb)
-2. 
-3. 
+2. [Training the FER Model](FER) - using FER2013 dataset
+3. [Training the SER Model](SER) - using RAVDESS dataset
+4. [Training the Text Emotion Recognition Model](BERT_Text_Sentiment_Recognition.ipynb) - using Tweet Sentiment Data
+5. [Training the Physiological signals-based Emotion Recognition Model](EEG_Brain_Signals_Emotion_Classification.ipynb) - using EEG Brainwave Dataset
+6. [Model Fusion - Ensemble Model](Ensemble_Model.ipynb)
+7. [Evaluation of the Ensemble Model](Models_Evaluation.ipynb) - using extracted MELD Dataset
+
+
+## Conclusion
 
 
