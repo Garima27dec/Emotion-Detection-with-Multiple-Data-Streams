@@ -1,6 +1,9 @@
 # Emotion-Detection-with-Multiple-Data-Streams
 
 
+## Introduction
+
+
 Emotion is a conscious and subjective response that individuals experience when exposed to various stimuli, playing a vital role in natural social interactions. Throughout the day, individuals encounter diverse 
 emotions, spanning from happiness and anger to sadness and excitement, which often propel them to undertake specific actions. In recent times, with the advancement of technology, the scientific community has endeavored to delve into the domain of Artificial Intelligence (AI) to create novel approaches for the analysis and interpretation of human emotions.
 
@@ -9,7 +12,15 @@ Initial research on emotion recognition primarily focused on single-mode methods
 
 
 In this Git Repository a novel multimodal emotion recognition model has been implemented. The model pipeline that the implementation follows is:
+
+
 ![image](https://github.com/Garima27dec/Emotion-Detection-with-Multiple-Data-Streams/assets/99138272/a7284339-b0a1-4c66-9970-bf8b21a03478)
 
+
+## Implementation Sequence
+
+
+1. Data Extraction - MELD Dataset (using Hugging Face): Data_extraction_MELD_Dataset.ipynb
+2. 
 
 
